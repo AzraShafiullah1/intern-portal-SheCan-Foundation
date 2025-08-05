@@ -18,6 +18,10 @@
  # npm run start:backend # npm run start:frontend
 # npm install react-scripts@latest
 
+git add .
+git commit -m "Your update message"
+git push origin main
+
 
 # How to Connect to MongoDB Atlas
 1. Get Your Atlas Connection String
