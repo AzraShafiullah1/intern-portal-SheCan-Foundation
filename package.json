@@ -10,7 +10,6 @@
     "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
     "dev:backend": "cd backend && npm run dev",
     "dev:frontend": "cd frontend && npm start"
-    
   },
   "keywords": [
     "intern",
@@ -26,6 +25,7 @@
     "concurrently": "^8.2.2"
   },
   "dependencies": {
-    "dotenv": "^17.2.1"
+    "dotenv": "^17.2.1",
+    "react-scripts": "^5.0.1"
   }
 }
