@@ -287,3 +287,4 @@ The application is structured for easy deployment:
 # intern-portal
 "# Assignment-intern-portal" 
 "# intern-portal_Assignment" 
+"# intern-portal-SheCan-Foundation" 
